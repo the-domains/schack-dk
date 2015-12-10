@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-10T19:19:21.543Z'
-dateModified: '2015-12-10T19:19:13.902Z'
+datePublished: '2015-12-10T19:48:57.991Z'
+dateModified: '2015-12-10T19:19:21.543Z'
 title: schack.dk flytter til TheGrid.io
 author: []
 sourcePath: _posts/2015-12-10-schackdk-flytter-til-thegridio.md
