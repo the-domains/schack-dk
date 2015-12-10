@@ -1,28 +1,19 @@
-name: Schack.dk
-favicon: null
-layout_spectrum: 0.93734
-typography_spectrum: 0.81893
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-103530-15
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
-    - '#a4bcb4'
-    - '#f2e76d'
-    - '#1d201f'
-    - '#5e6e6a'
-    - '#748a85'
-  brandStrength: 0.125
-  lightness: 0.42460269550792873
-  saturation: 0.6118471887893975
-  rhythmicContrast: 0.3972225687466562
+    - '#A4BCB4'
+    - '#F2E76D'
+    - '#1D201F'
+    - '#5E6E6A'
+    - '#748A85'
+  brandStrength: 0.002878
+  lightness: 0.424602
+  rhythmicContrast: 0.397222
+  saturation: 0.611847
+cta: {}
+layout_spectrum: 0.997533
+name: Schack.dk
+opengraph: {}
 purpose: []
+typography_spectrum: 1
