@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Schack.dk]]></title>
         <description><![CDATA[Schack.dk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://schack.dk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 18:31:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 18:36:38 GMT</lastBuildDate>
+        <atom:link href="http://schack.dk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[schack.dk flytter til TheGrid.io]]></title>
-            <description><![CDATA[<article><h1>schack.dk flytter til TheGrid.io</h1><p>Så fik jeg adgang til min "The Grid" konto som jeg signede op til for lang tid siden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/165bc9a7f264e91cd36be61728a7d39b90b24309.png"></article>]]></description>
-            <link>undefinedschackdk-flytter-til-thegridio/index.html</link>
+            <description><![CDATA[<article><h1>schack.dk flytter til TheGrid.io</h1><p>Så fik jeg adgang til min "The Grid" konto som jeg signede op til for lang tid siden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c642c428d688d4c28a1e02fcebe2d6f654ba2304.png"></article>]]></description>
+            <link>http://schack.dk/schackdk-flytter-til-thegridio/index.html</link>
             <guid isPermaLink="false">1036372c-7ce7-4a5b-a948-6ee296fe8d5a</guid>
-            <pubDate>Thu, 10 Dec 2015 18:31:38 GMT</pubDate>
+            <pubDate>Thu, 10 Dec 2015 18:36:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
