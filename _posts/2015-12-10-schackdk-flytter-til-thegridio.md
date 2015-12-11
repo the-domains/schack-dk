@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-11T04:41:28.951Z'
-dateModified: '2015-12-11T04:41:19.397Z'
+datePublished: '2015-12-11T04:42:29.345Z'
+dateModified: '2015-12-11T04:42:25.503Z'
 title: schack.dk flytter til TheGrid.io
 author: []
 sourcePath: _posts/2015-12-10-schackdk-flytter-til-thegridio.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: schackdk-flytter-til-thegridio/index.html
+_type: Article
 
 ---
 Test
