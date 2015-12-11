@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Schack.dk]]></title>
+        <description><![CDATA[Schack.dk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 20:21:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[schack.dk flytter til TheGrid.io]]></title>
+            <description><![CDATA[<article><h1>schack.dk flytter til TheGrid.io</h1><p>Så har jeg fået adgang til min "The Grid" konto som jeg signede op til for lang tid siden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae16fc73286f338c6bb6fba4a0e0013809dd0666.png"></article>]]></description>
+            <link>undefinedschackdk-flytter-til-thegridio/index.html</link>
+            <guid isPermaLink="false">1036372c-7ce7-4a5b-a948-6ee296fe8d5a</guid>
+            <pubDate>Fri, 11 Dec 2015 20:20:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
