@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-11T04:39:54.694Z'
-dateModified: '2015-12-11T04:39:48.268Z'
+datePublished: '2015-12-11T04:41:28.951Z'
+dateModified: '2015-12-11T04:41:19.397Z'
 title: schack.dk flytter til TheGrid.io
 author: []
 sourcePath: _posts/2015-12-10-schackdk-flytter-til-thegridio.md
@@ -22,6 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e63c86-c46d-4aef-af6a-9593ca5dad92.png)
+Test
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4cb95d29df83d3a8b168898f7de09443229d579.png)
 
 Så fik jeg adgang til min "The Grid" konto som jeg signede op til for lang tid siden..
