@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-10T19:48:57.991Z'
-dateModified: '2015-12-10T19:19:21.543Z'
+datePublished: '2015-12-11T04:39:54.694Z'
+dateModified: '2015-12-11T04:39:48.268Z'
 title: schack.dk flytter til TheGrid.io
 author: []
 sourcePath: _posts/2015-12-10-schackdk-flytter-til-thegridio.md
