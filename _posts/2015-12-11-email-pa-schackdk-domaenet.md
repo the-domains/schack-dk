@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Information om emailadresser på schack.dk domænet.
-datePublished: '2015-12-11T20:41:56.908Z'
-dateModified: '2015-12-11T20:41:50.092Z'
+datePublished: '2015-12-11T20:46:43.392Z'
+dateModified: '2015-12-11T20:46:29.659Z'
 title: Email på schack.dk domænet
 author: []
 sourcePath: _posts/2015-12-11-email-pa-schackdk-domaenet.md
@@ -28,15 +28,13 @@ Hedder du også Schack til efter eller mellem-navn og kunne du tænke dig en ema
 Så send en email til: henrik snabela schack.dk, og angiv den ønskede emailadresse.  
 Emailadresser fordeles efter først til mølle princippet.
   
-schack.dk email er en [Google Apps][0] løsning, hvor du får:
+schack.dk email er en [Google Apps][0] løsning, hvor du får:  
 
-* Gmail konto
-* Google Calendar
-* Google Docs
+* Gmail konto 
+* Google Calendar 
+* Google Docs 
 * Hangouts
 
-Det hele er lige pt. gratis, men det kan muligvis blive nødvendigt at opgradere til Google Apps business udgaven på et tidspunkt, en emailadresse vil så koste $50/år.  
-En hjemmeside på personnavn.schack.dk f.eks [https://henrik.schack.dk/][1] kan også oprettes, jeg kan levere navnet gratis, men har ikke mulighed for at levere gratis webhotelplads. Jeg vil dog gerne være behjælpelig med at få tingene oprettet på et webhotel efter dit valg.
+
 
 [0]: https://apps.google.dk/
-[1]: https://henrik.schack.dk/
