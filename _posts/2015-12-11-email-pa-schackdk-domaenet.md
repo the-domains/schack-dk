@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Information om emailadresser på schack.dk domænet.
-datePublished: '2015-12-11T20:40:01.428Z'
-dateModified: '2015-12-11T20:39:46.529Z'
+datePublished: '2015-12-11T20:41:56.908Z'
+dateModified: '2015-12-11T20:41:50.092Z'
 title: Email på schack.dk domænet
 author: []
+sourcePath: _posts/2015-12-11-email-pa-schackdk-domaenet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-11-email-pa-schackdk-domaenet.md
-published: true
 url: email-pa-schackdk-domaenet/index.html
 _type: WebPage
 
