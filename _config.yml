@@ -1,20 +1,5 @@
-name: Schack.dk
-favicon: null
-layout_spectrum: 0.74546
-typography_spectrum: 1
-title: schack.dk
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-103530-15
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A4BCB4'
@@ -24,6 +9,11 @@ color:
     - '#748A85'
   brandStrength: 0.002878
   lightness: 0.424602
-  saturation: 0.611847
   rhythmicContrast: 0.397222
+  saturation: 0.611847
+cta: {}
+layout_spectrum: 0.599506
+name: Schack.dk
+opengraph: {}
 purpose: []
+typography_spectrum: 1
